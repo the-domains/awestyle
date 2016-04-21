@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#C0A8B8'
+    - '#106090'
+    - '#8090A0'
+    - '#B850A0'
+    - '#B898E0'
+  brandStrength: 0.17868800237335536
+  lightness: 0.27468433328689157
+  rhythmicContrast: 0.07273049291694977
+  saturation: 0.6969028532960019
+cta: {}
+layout_spectrum: 0.6337386828172393
+name: awestyle
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.3510647742839025
